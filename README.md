@@ -56,3 +56,6 @@ A
 -Librería Matplotlib [aquí]()
 ---------------------------------
 A
+
+
+Todos los ejerccios para practicas los saque del siguiente [link](https://aprendeconalf.es/docencia/python/ejercicios/)
