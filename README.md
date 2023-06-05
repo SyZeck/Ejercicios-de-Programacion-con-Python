@@ -9,7 +9,8 @@ Se cuenta con la siguiente distribución:
 
 -Tipos de Datos Simples
 ---------------------------------
-Aquí comenzamos con el inicio en Python, con ejercicios de datos sencillos para familiarizarse con el lenguaje.
+Aquí comenzamos con el inicio en Python, con 12 ejercicios de datos sencillos, para familiarizarse con el lenguaje.
+
 El directorio lo tienes [aquí]()
 
 -Cadenas [aquí]()
