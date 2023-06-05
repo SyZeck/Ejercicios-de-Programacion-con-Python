@@ -6,8 +6,9 @@ En el siguiente repositorio se muestra mi práctica con el largo del tiempo en P
 Se cuenta con la siguiente distribución:
 
 -Tipos de Datos Simples [aquí]()
-================================
+---------------------------------
 Aquí comenzamos con el inicio en Python, con ejercicios de datos sencillos para familiarizarse con el lenguaje.
+
 -Cadenas [aquí]()
 ================================
 A
