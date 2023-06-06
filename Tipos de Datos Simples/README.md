@@ -26,10 +26,7 @@ Ejercicio 4
 
 Escribir un programa que muestre por pantalla el resultado de la siguiente operación aritmética 
  
-	2
-   [3+2]
-   |---| 
-   [2*5]
+\((\frac{{3+2}}{2} \cdot 5)^2\)
 
 El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Tipos%20de%20Datos%20Simples/Ejercicio%204).
 
