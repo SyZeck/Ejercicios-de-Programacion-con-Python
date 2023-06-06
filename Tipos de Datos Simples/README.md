@@ -3,14 +3,14 @@ Ejercicio 1
 
 Escribir un programa que muestre por pantalla la cadena ¡Hola Mundo!. 
 
-El programa que yo cree se encuentra [aquí]()
+El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Tipos%20de%20Datos%20Simples/Ejercicio%201)
 
 Ejercicio 2
 -----------
 
 Escribir un programa que almacene la cadena ¡Hola Mundo! en una variable y luego muestre por pantalla el contenido de la variable.
 
-El programa que yo cree se encuentra [aquí]()
+El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Tipos%20de%20Datos%20Simples/Ejercicio%202)
 
 
 Ejercicio 3
@@ -18,7 +18,7 @@ Ejercicio 3
 
 Escribir un programa que pregunte el nombre del usuario en la consola y después de que el usuario lo introduzca muestre por pantalla la cadena ¡Hola <nombre>!, donde <nombre> es el nombre que el usuario haya introducido.
 
-El programa que yo cree se encuentra [aquí]()
+El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Tipos%20de%20Datos%20Simples/Ejercicio%203)
 
 
 Ejercicio 4
