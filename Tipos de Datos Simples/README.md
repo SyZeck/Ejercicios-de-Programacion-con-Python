@@ -42,7 +42,7 @@ Ejercicio 6
 
 Escribir un programa que lea un entero positivo, "n", introducido por el usuario y después muestre en pantalla la suma de todos los enteros desde 1 hasta "n". La suma de los "n" primeros enteros positivos puede ser calculada de la siguiente forma:
 
-[SUMA = $\frac{n(n+1)}{2}$](https://latex.codecogs.com/png.latex?%5Cdpi%7B300%7D%20%5Clarge%20SUMA%20%3D%20%5Cfrac%7Bn%28n%2B1%29%7D%7B2%7D)
+SUMA = $\frac{n(n+1)}{2}$
  
 El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Tipos%20de%20Datos%20Simples/Ejercicio%206).
 
