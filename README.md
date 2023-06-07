@@ -14,12 +14,10 @@ Aquí comenzamos con el inicio en Python, con 12 ejercicios de datos sencillos, 
 El directorio con los ejercicios y mi forma de solucionarlos esta  [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Tipos%20de%20Datos%20Simples).
 
 -Cadenas:
-------------
+---------------------------------
 Ahora toca trabajar con Cadenas, con 11 ejercicios para trabajar con el lenguaje.
 
 El directorio con los ejercicios y mi forma de solucionarlos esta  [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Cadenas).
----------------------------------
-A
 
 -Condicionales [aquí]()
 ---------------------------------
