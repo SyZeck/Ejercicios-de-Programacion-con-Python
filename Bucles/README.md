@@ -3,35 +3,35 @@ Ejercicio 1
 
 Escribir un programa que pida al usuario una palabra y la muestre por pantalla 10 veces.
 
-El programa que yo cree se encuentra [aquí]().
+El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Bucles/Ejercicio%201).
 
 Ejercicio 2
 -----------
 
 Escribir un programa que pregunte al usuario su edad y muestre por pantalla todos los años que ha cumplido (desde 1 hasta su edad).
 
-El programa que yo cree se encuentra [aquí]().
+El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Bucles/Ejercicio%202).
 
 Ejercicio 3
 -----------
 
 Escribir un programa que pida al usuario un número entero positivo y muestre por pantalla todos los números impares desde 1 hasta ese número separados por comas.
 
-El programa que yo cree se encuentra [aquí]().
+El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Bucles/Ejercicio%203).
 
 Ejercicio 4
 -----------
 
 Escribir un programa que pida al usuario un número entero positivo y muestre por pantalla la cuenta atrás desde ese número hasta cero separados por comas.
 
-El programa que yo cree se encuentra [aquí]().
+El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Bucles/Ejercicio%204).
 
 Ejercicio 5
 -----------
 
 Escribir un programa que pregunte al usuario una cantidad a invertir, el interés anual y el número de años, y muestre por pantalla el capital obtenido en la inversión cada año que dura la inversión.
 
-El programa que yo cree se encuentra [aquí]().
+El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Bucles/Ejercicio%205).
 
 Ejercicio 6
 -----------
@@ -44,14 +44,14 @@ Escribir un programa que pida al usuario un número entero y muestre por pantall
 ****
 *****
 
-El programa que yo cree se encuentra [aquí]().
+El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Bucles/Ejercicio%206).
 
 Ejercicio 7
 -----------
 
 Escribir un programa que muestre por pantalla la tabla de multiplicar del 1 al 10.
 
-El programa que yo cree se encuentra [aquí]().
+El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Bucles/Ejercicio%207).
 
 Ejercicio 8
 -----------
