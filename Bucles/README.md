@@ -64,7 +64,7 @@ Escribir un programa que pida al usuario un número entero y muestre por pantall
 7 5 3 1
 9 7 5 3 1
 
-El programa que yo cree se encuentra [aquí]().
+El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Bucles/Ejercicio%208).
 
 Ejercicio 9
 -----------
