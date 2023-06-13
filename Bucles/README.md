@@ -62,11 +62,15 @@ Ejercicio 8
 -----------
 
 Escribir un programa que pida al usuario un número entero y muestre por pantalla un triángulo rectángulo como el de más abajo.
-
+<br/>
 1
+<br/>
 3 1
+<br/>
 5 3 1
+<br/>
 7 5 3 1
+<br/>
 9 7 5 3 1
 
 El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Bucles/Ejercicio%208).
