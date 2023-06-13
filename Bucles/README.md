@@ -38,6 +38,7 @@ Ejercicio 6
 
 Escribir un programa que pida al usuario un número entero y muestre por pantalla un triángulo rectángulo como el de más abajo, de altura el número introducido.
 
+<br/>
 *
 <br/>
 **
@@ -47,7 +48,6 @@ Escribir un programa que pida al usuario un número entero y muestre por pantall
 ****
 <br/>
 *****
-
 
 El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Bucles/Ejercicio%206).
 
