@@ -23,11 +23,13 @@ El directorio con los ejercicios y mi forma de solucionarlos esta  [aquí](https
 ---------------------------------
 Probamos las condicionales, con un total de 9 ejercicios con Python.
 
-El directorio con los ejercicios y mi forma de solucionarlos esta  [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Condicionales)
+El directorio con los ejercicios y mi forma de solucionarlos esta  [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Condicionales).
 
--Bucles [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Bucles)
+-Bucles 
 ---------------------------------
-A
+Trabajamos con Bucles repetitivos, vemos 13 ejercicios en el lenguaje.
+
+El directorio con los ejercicios y mi forma de solucionarlos esta  [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Bucles).
 
 -Listas y Tuplas [aquí]()
 ---------------------------------
