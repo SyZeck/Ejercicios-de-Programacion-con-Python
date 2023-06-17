@@ -19,9 +19,11 @@ Ahora toca trabajar con Cadenas, con 11 ejercicios para trabajar con el lenguaje
 
 El directorio con los ejercicios y mi forma de solucionarlos esta  [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Cadenas).
 
--Condicionales [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Condicionales)
+-Condicionales
 ---------------------------------
-A
+Probamos las condicionales, con un total de 9 ejercicios con Python.
+
+El directorio con los ejercicios y mi forma de solucionarlos esta  [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Condicionales)
 
 -Bucles [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Bucles)
 ---------------------------------
