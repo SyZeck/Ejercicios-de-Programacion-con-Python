@@ -19,7 +19,7 @@ Ahora toca trabajar con Cadenas, con 11 ejercicios para trabajar con el lenguaje
 
 El directorio con los ejercicios y mi forma de solucionarlos esta  [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Cadenas).
 
--Condicionales [aquí]()
+-Condicionales [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Condicionales)
 ---------------------------------
 A
 
