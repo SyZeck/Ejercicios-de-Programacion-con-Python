@@ -23,7 +23,7 @@ El directorio con los ejercicios y mi forma de solucionarlos esta  [aquí](https
 ---------------------------------
 A
 
--Bucles [aquí]()
+-Bucles [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Bucles)
 ---------------------------------
 A
 
