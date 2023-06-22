@@ -94,7 +94,7 @@ Ejercicio 11
 
 Escribir un programa que pida al usuario una palabra y luego muestre por pantalla una a una las letras de la palabra introducida empezando por la última.
 
-El programa que yo cree se encuentra [aquí]().
+El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Bucles/Ejercicio%2011).
 
 Ejercicio 12
 -----------
