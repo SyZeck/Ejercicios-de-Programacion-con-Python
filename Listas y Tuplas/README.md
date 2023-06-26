@@ -80,14 +80,11 @@ Ejercicio 12
 
 Escribir un programa que almacene las matrices
  
-	| 1 | 2 | 3 |
-A =	|---|---|---|
-	| 4 | 5 | 6 |
+| 1 | 2 | 3 |
+|---|---|---|
+| 4 | 5 | 6 |
 
-	| -1 | 0  |
-	|----|----|
-B =	| 0  | 1  |
-	| 1  | 1  |
+
 
 
 en una lista y muestre por pantalla su producto.
