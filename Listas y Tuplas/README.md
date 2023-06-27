@@ -31,7 +31,7 @@ Ejercicio 5
 
 Escribir un programa que almacene en una lista los números del 1 al 10 y los muestre por pantalla en orden inverso separados por comas.
 
-El programa que yo cree se encuentra [aquí]().
+El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Listas%20y%20Tuplas/Ejercicio%205).
 
 Ejercicio 6
 -----------
