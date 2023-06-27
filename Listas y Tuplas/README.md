@@ -24,7 +24,7 @@ Ejercicio 4
 
 Escribir un programa que pregunte al usuario los números ganadores de la lotería primitiva, los almacene en una lista y los muestre por pantalla ordenados de menor a mayor.
 
-El programa que yo cree se encuentra [aquí]().
+El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Listas%20y%20Tuplas/Ejercicio%204).
 
 Ejercicio 5
 -----------
