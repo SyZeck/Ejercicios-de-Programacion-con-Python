@@ -3,7 +3,7 @@ Ejercicio 1
 
 Escribir un programa que almacene las asignaturas de un curso (por ejemplo Matemáticas, Física, Química, Historia y Lengua) en una lista y la muestre por pantalla.
 
-El programa que yo cree se encuentra [aquí]().
+El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Listas%20y%20Tuplas/Ejercicio%201).
 
 Ejercicio 2
 -----------
