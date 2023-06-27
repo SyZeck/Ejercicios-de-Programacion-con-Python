@@ -52,7 +52,7 @@ Ejercicio 8
 
 Escribir un programa que pida al usuario una palabra y muestre por pantalla si es un palíndromo.
 
-El programa que yo cree se encuentra [aquí]().
+El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Listas%20y%20Tuplas/Ejercicio%208).
 
 Ejercicio 9
 -----------
