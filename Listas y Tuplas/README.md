@@ -59,7 +59,7 @@ Ejercicio 9
 
 Escribir un programa que pida al usuario una palabra y muestre por pantalla el número de veces que contiene cada vocal.
 
-El programa que yo cree se encuentra [aquí]().
+El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Listas%20y%20Tuplas/Ejercicio%209).
 
 Ejercicio 10
 -----------
