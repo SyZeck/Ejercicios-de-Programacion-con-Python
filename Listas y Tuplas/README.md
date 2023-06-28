@@ -92,7 +92,7 @@ Escribir un programa que almacene las matrices
 
 en una lista y muestre por pantalla su producto.
 Nota: Para representar matrices mediante listas usar listas anidadas, representando cada vector fila en una lista.
-El programa que yo cree se encuentra [aquí]().
+El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Listas%20y%20Tuplas/Ejercicio%2012).
 
 Ejercicio 13
 -----------
