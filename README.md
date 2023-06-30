@@ -33,13 +33,13 @@ El directorio con los ejercicios y mi forma de solucionarlos esta  [aquí](https
 
 -Listas y Tuplas
 ---------------------------------
-Se gestionan las Listas y las Tuplas, con un total de 23 ejercicios con Python.
+Se gestionan las Listas y las Tuplas, con un total de 13 ejercicios con Python.
 
 El directorio con los ejercicios y mi forma de solucionarlos esta  [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Listas%20y%20Tuplas).
 
 -Diccionarios 
 ---------------------------------
-Vemos como trabajar con diccionario dentro del lenguaje.
+Vemos como trabajar con diccionario dentro del lenguaje con un total de 11 ejercicios.
 
 El directorio con los ejercicios y mi forma de solucionarlos esta  [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Diccionarios).
 
