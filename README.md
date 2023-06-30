@@ -37,9 +37,11 @@ A
 
 El directorio con los ejercicios y mi forma de solucionarlos esta  [aquí]()
 
--Diccionarios [aquí]()
+-Diccionarios 
 ---------------------------------
 A
+
+El directorio con los ejercicios y mi forma de solucionarlos esta  [aquí]()
 
 -Funciones [aquí]()
 ---------------------------------
