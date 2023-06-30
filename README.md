@@ -33,7 +33,7 @@ El directorio con los ejercicios y mi forma de solucionarlos esta  [aquí](https
 
 -Listas y Tuplas
 ---------------------------------
-A
+Se gestionan las Listas y las Tuplas, con un total de 23 ejercicios con Python.
 
 El directorio con los ejercicios y mi forma de solucionarlos esta  [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Listas%20y%20Tuplas).
 
