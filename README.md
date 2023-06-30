@@ -39,7 +39,7 @@ El directorio con los ejercicios y mi forma de solucionarlos esta  [aquí](https
 
 -Diccionarios 
 ---------------------------------
-A
+Vemos como trabajar con diccionario dentro del lenguaje.
 
 El directorio con los ejercicios y mi forma de solucionarlos esta  [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Diccionarios).
 
