@@ -31,9 +31,11 @@ Trabajamos con Bucles repetitivos, vemos 13 ejercicios en el lenguaje.
 
 El directorio con los ejercicios y mi forma de solucionarlos esta  [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Bucles).
 
--Listas y Tuplas [aquí]()
+-Listas y Tuplas
 ---------------------------------
 A
+
+El directorio con los ejercicios y mi forma de solucionarlos esta  [aquí]()
 
 -Diccionarios [aquí]()
 ---------------------------------
