@@ -41,7 +41,7 @@ El directorio con los ejercicios y mi forma de solucionarlos esta  [aquí](https
 ---------------------------------
 A
 
-El directorio con los ejercicios y mi forma de solucionarlos esta  [aquí]()
+El directorio con los ejercicios y mi forma de solucionarlos esta  [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Diccionarios).
 
 -Funciones [aquí]()
 ---------------------------------
