@@ -88,7 +88,7 @@ Escribir un programa que permita gestionar la base de datos de clientes de una e
 5.	Mostrar la lista de clientes preferentes de la base de datos con su NIF y nombre.
 6.	Terminar el programa.
 
-El programa que yo cree se encuentra [aquí]().
+El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Diccionarios/Ejercicio%2010).
 
 Ejercicio 11
 -----------
