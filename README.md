@@ -41,12 +41,13 @@ El directorio con los ejercicios y mi forma de solucionarlos esta  [aquí](https
 ---------------------------------
 Vemos como trabajar con diccionario dentro del lenguaje con un total de 11 ejercicios.
 
-El directorio con los ejercicios y mi forma de solucionarlos esta  [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Diccionarios).
+ El directorio con los ejercicios y mi forma de solucionarlos esta [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Diccionarios).
 
--Funciones [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Funciones)
+-Funciones 
 ---------------------------------
 A
 
+El directorio con los ejercicios y mi forma de solucionarlos esta. [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Funciones)
 -Programación Funcional [aquí]()
 ---------------------------------
 A
