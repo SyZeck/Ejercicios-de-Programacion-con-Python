@@ -17,7 +17,7 @@ Ejercicio 3
 
 Escribir una función que reciba un número entero positivo y devuelva su factorial.
 
-El programa que yo cree se encuentra [aquí]().
+El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Funciones/Ejercicio%203).
 
 Ejercicio 4
 -----------
