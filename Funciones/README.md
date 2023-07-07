@@ -3,7 +3,7 @@ Ejercicio 1
 
 Escribir una función que muestre por pantalla el saludo ¡Hola amiga! cada vez que se la invoque.
 
-El programa que yo cree se encuentra [aquí]().
+El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Funciones/Ejercicio%201).
 
 Ejercicio 2
 -----------
