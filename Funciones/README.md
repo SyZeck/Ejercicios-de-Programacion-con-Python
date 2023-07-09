@@ -45,7 +45,7 @@ Ejercicio 7
 
 Escribir una función que reciba una muestra de números en una lista y devuelva otra lista con sus cuadrados.
 
-El programa que yo cree se encuentra [aquí]().
+El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Funciones/Ejercicio%207).
 
 Ejercicio 8
 -----------
