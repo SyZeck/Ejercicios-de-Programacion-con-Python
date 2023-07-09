@@ -59,7 +59,7 @@ Ejercicio 9
 
 Escribir una función que calcule el máximo común divisor de dos números y otra que calcule el mínimo común múltiplo.
 
-El programa que yo cree se encuentra [aquí]().
+El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Funciones/Ejercicio%209).
 
 Ejercicio 10
 -----------
