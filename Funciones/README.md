@@ -38,7 +38,7 @@ Ejercicio 6
 
 Escribir una función que reciba una muestra de números en una lista y devuelva su media.
 
-El programa que yo cree se encuentra [aquí]().
+El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Funciones/Ejercicio%206).
 
 Ejercicio 7
 -----------
