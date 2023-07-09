@@ -66,7 +66,7 @@ Ejercicio 10
 
 Escribir una función que convierta un número decimal en binario y otra que convierta un número binario en decimal.
 
-El programa que yo cree se encuentra [aquí]().
+El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Funciones/Ejercicio%2010).
 
 Ejercicio 11
 -----------
