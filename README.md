@@ -45,7 +45,7 @@ Vemos como trabajar con diccionario dentro del lenguaje con un total de 11 ejerc
 
 -Funciones 
 ---------------------------------
-A
+Trabajndo con lo más importante de un programa, las funciones, 11 ejercicios son optimos para comprender la logica detrás de ellos.
 
 El directorio con los ejercicios y mi forma de solucionarlos esta. [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Funciones)
 
