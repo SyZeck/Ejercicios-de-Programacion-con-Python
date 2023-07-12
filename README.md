@@ -49,7 +49,7 @@ Trabajndo con lo más importante de un programa, las funciones, 11 ejercicios so
 
 El directorio con los ejercicios y mi forma de solucionarlos esta. [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Funciones)
 
--Programación Funcional [aquí]()
+-Programación Funcional [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Programaci%C3%B3n%20Funcional)
 ---------------------------------
 A
 
