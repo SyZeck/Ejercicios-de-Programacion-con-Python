@@ -51,7 +51,7 @@ El directorio con los ejercicios y mi forma de solucionarlos esta [aquí](https:
 
 -Programación Funcional 
 ---------------------------------
-A.
+Manejando la utilización de las funciones entre ellas para el desarrollo de programas, con 11 ejercicios que se complementan muy bien entre ellos.
 
 El directorio con los ejercicios y mi forma de solucionarlos esta [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Programaci%C3%B3n%20Funcional).
 
