@@ -31,7 +31,7 @@ Ejercicio 5
 
 Escribir una función que reciba una frase y devuelva un diccionario con las palabras que contiene y su longitud.
 
-El programa que yo cree se encuentra [aquí]().
+El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Programaci%C3%B3n%20Funcional/Ejercicio%205).
 
 Ejercicio 6
 -----------
