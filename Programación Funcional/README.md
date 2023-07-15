@@ -38,7 +38,7 @@ Ejercicio 6
 
 Escribir una función reciba una lista de notas y devuelva la lista de calificaciones correspondientes a esas notas.
 
-El programa que yo cree se encuentra [aquí]().
+El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Programaci%C3%B3n%20Funcional/Ejercicio%206).
 
 Ejercicio 7
 -----------
