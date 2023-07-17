@@ -83,7 +83,7 @@ Construir una función que permita hacer búsqueda de inmuebles en función de u
 - • Zona B:
   - Precio = (metros * 1000 + habitaciones * 5000 + garaje * 15000) * (1-antiguedad/100) * 1.5
 
-El programa que yo cree se encuentra [aquí]().
+El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Programaci%C3%B3n%20Funcional/Ejercicio%2010).
 
 Ejercicio 11
 -----------
