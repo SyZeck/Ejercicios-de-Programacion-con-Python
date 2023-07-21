@@ -24,7 +24,7 @@ Ejercicio 4
 
 Escribir un programa que acceda a un fichero de internet mediante su url y muestre por pantalla el número de palabras que contiene.
 
-El programa que yo cree se encuentra [aquí]().
+El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Ficheros/Ejercicio%204).
 
 Ejercicio 5
 -----------
