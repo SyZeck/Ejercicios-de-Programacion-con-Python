@@ -28,7 +28,6 @@ def Eliminar(nombre) :
                 file.write(line)
     print("Teléfono eliminado correctamente.")
 
-# Función principal del programa
 def Gestionar() :
     Crear()
     
@@ -57,5 +56,4 @@ def Gestionar() :
         else :
             print("Opción inválida. Intente nuevamente.")
 
-# Ejecutar el programa
 Gestionar()
