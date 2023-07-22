@@ -49,7 +49,7 @@ El fichero cotizacion.csv contiene las cotizaciones de las empresas del IBEX35 c
 
 2.Construir una función que reciba el diccionario devuelto por la función anterior y cree un fichero en formato csv con el mínimo, el máximo y la media de dada columna.
 
-El programa que yo cree se encuentra [aquí]().
+El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Ficheros/Ejercicio%207).
 
 Ejercicio 8
 -----------
