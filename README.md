@@ -57,7 +57,7 @@ El directorio con los ejercicios y mi forma de solucionarlos esta [aquí](https:
 
 -Ficheros 
 ---------------------------------
-A
+Utilizando archivos junto con Python con el fin de manipularlos para aprender mejor su funcionamienot, 
 
 El directorio con los ejercicios y mi forma de solucionarlos esta [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Ficheros).
 
