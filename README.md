@@ -55,9 +55,11 @@ Manejando la utilización de las funciones entre ellas para el desarrollo de pro
 
 El directorio con los ejercicios y mi forma de solucionarlos esta [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Programaci%C3%B3n%20Funcional).
 
--Ficheros [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Ficheros)
+-Ficheros 
 ---------------------------------
 A
+
+El directorio con los ejercicios y mi forma de solucionarlos esta [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Ficheros).
 
 -Depuración [aquí]()
 ---------------------------------
