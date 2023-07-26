@@ -55,7 +55,7 @@ def elimina(listin, usuario):
 
 print(elimina(listin, 'Pablo'))
 
-El programa que yo cree se encuentra [aquí]().
+El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Depuraci%C3%B3n/Ejercicio%204).
 
 Ejercicio 5
 -----------
