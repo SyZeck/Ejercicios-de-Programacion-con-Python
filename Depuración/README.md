@@ -9,7 +9,7 @@ if contraseña in ['sesamo'):
 else
 	print('No pasa')
 
-El programa que yo cree se encuentra [aquí]().
+El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Depuraci%C3%B3n/Ejercicio%201).
 
 Ejercicio 2
 -----------
