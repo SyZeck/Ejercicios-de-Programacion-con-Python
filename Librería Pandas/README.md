@@ -17,7 +17,7 @@ Ejercicio 3
 
 Escribir una función que reciba un diccionario con las notas de los alumnos de un curso y devuelva una serie con las notas de los alumnos aprobados ordenadas de mayor a menor.
 
-El programa que yo cree se encuentra [aquí]().
+El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Librer%C3%ADa%20Pandas/Ejercicio%203).
 
 Ejercicio 4
 -----------
