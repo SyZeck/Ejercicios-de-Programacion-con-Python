@@ -24,11 +24,12 @@ Ejercicio 4
 
 Escribir programa que genere y muestre por pantalla un DataFrame con los datos de la tabla siguiente:
 
-Mes	Ventas	Gastos
-Enero	30500	22000
-Febrero	35600	23400
-Marzo	28300	18100
-Abril	33900	20700
+| Mes     | Ventas | Gastos |
+|---------|--------|--------|
+| Enero   | 30500  | 22000  |
+| Febrero | 35600  | 23400  |
+| Marzo   | 28300  | 18100  |
+| Abril   | 33900  | 20700  |
 
 El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Librer%C3%ADa%20Pandas/Ejercicio%204).
 
