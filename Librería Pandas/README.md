@@ -74,7 +74,6 @@ El fichero titanic.csv contiene información sobre los pasajeros del Titanic. Es
 
 11.Mostrar por pantalla el porcentaje de menores y mayores de edad que sobrevivieron en cada clase.
 
-
 El programa que yo cree se encuentra [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Librer%C3%ADa%20Pandas/Ejercicio%207).
 
 Ejercicio 8
