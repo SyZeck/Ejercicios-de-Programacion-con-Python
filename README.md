@@ -71,7 +71,7 @@ El directorio con los ejercicios y mi forma de solucionarlos esta [aquí](https:
 ---------------------------------
 Manipulando una de las librerías más usadas en Python y útiles en Python. Usando 8 ejercicios para comprender mejor el tema.
 
-El directorio con los ejercicios y mi forma de solucionarlos esta [aquí]().
+El directorio con los ejercicios y mi forma de solucionarlos esta [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Librer%C3%ADa%20Pandas).
 
 -Librería Matplotlib [aquí]()
 ---------------------------------
