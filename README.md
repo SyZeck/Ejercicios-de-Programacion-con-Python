@@ -61,11 +61,11 @@ Utilizando archivos junto con Python con el fin de manipularlos para aprender me
 
 El directorio con los ejercicios y mi forma de solucionarlos esta [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Ficheros).
 
--Depuración [aquí]()
+-Depuración 
 ---------------------------------
 Ejercicios para mejorar la comprension de errores de codigo. Un total de 5 ejercicios para practica.
 
-El directorio con los ejercicios y mi forma de solucionarlos esta 
+El directorio con los ejercicios y mi forma de solucionarlos esta [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Depuraci%C3%B3n).
 
 -Librería Pandas [aquí]()
 ---------------------------------
