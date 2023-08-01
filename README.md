@@ -63,7 +63,7 @@ El directorio con los ejercicios y mi forma de solucionarlos esta [aquí](https:
 
 -Depuración [aquí]()
 ---------------------------------
-A
+Ejercicios para mejorar la comprension de errores de codigo. Un total de 5 ejercicios para practica.
 
 -Librería Pandas [aquí]()
 ---------------------------------
