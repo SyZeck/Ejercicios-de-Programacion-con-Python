@@ -63,13 +63,15 @@ El directorio con los ejercicios y mi forma de solucionarlos esta [aquí](https:
 
 -Depuración 
 ---------------------------------
-Ejercicios para mejorar la comprension de errores de codigo. Un total de 5 ejercicios para practica.
+Ejercicios para mejorar la comprensión de errores de código. Un total de 5 ejercicios para práctica.
 
 El directorio con los ejercicios y mi forma de solucionarlos esta [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Depuraci%C3%B3n).
 
--Librería Pandas [aquí]()
+-Librería Pandas 
 ---------------------------------
-A
+Manipulando una de las librerías más usadas en Python y útiles en Python. Usando 8 ejercicios para comprender mejor el tema.
+
+El directorio con los ejercicios y mi forma de solucionarlos esta [aquí]().
 
 -Librería Matplotlib [aquí]()
 ---------------------------------
