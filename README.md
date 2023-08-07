@@ -75,7 +75,7 @@ El directorio con los ejercicios y mi forma de solucionarlos esta [aquí](https:
 
 -Librería Matplotlib
 ---------------------------------
-A
+Manejando un poco mas el lado visual de Python con esta asombrosa libreria. Contando un total de 8 ejercicios.
 
 El directorio con los ejercicios y mi forma de solucionarlos esta [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Librer%C3%ADa%20Matplotlib).
 
