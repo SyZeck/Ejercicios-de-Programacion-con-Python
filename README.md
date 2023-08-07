@@ -77,5 +77,6 @@ El directorio con los ejercicios y mi forma de solucionarlos esta [aquí](https:
 ---------------------------------
 A
 
+El directorio con los ejercicios y mi forma de solucionarlos esta 
 
 Todos los ejerccios para practicas los saque del siguiente [link](https://aprendeconalf.es/docencia/python/ejercicios/)
