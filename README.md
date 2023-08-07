@@ -73,10 +73,10 @@ Manipulando una de las librerías más usadas en Python y útiles en Python. Usa
 
 El directorio con los ejercicios y mi forma de solucionarlos esta [aquí](https://github.com/SyZeck/Ejercicios-de-Programacion-con-Python/tree/main/Librer%C3%ADa%20Pandas).
 
--Librería Matplotlib [aquí]()
+-Librería Matplotlib
 ---------------------------------
 A
 
-El directorio con los ejercicios y mi forma de solucionarlos esta 
+El directorio con los ejercicios y mi forma de solucionarlos esta [aquí]().
 
 Todos los ejerccios para practicas los saque del siguiente [link](https://aprendeconalf.es/docencia/python/ejercicios/)
